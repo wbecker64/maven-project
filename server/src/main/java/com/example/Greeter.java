@@ -3,7 +3,6 @@ package com.example;
 
 import java.lang.Math;
 import java.io.* ;
-import java.io.* ;
 /**
 * this is a Class
 */
